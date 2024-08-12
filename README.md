@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello 👋🏻<br>My name is Lucas Renatto and I am a Developer! 🧑🏻‍💻<br>Since I was a child, I have always been curious and passionate about games. <br>This passion sparked my curiosity about "How is a game made?" <br>and that's when I discovered the world of programming, starting with simple projects <br>with Unity, AFP, Blender, and so on. I grew up and graduated in Information Systems. <br>Today, I develop applications with various technologies in FullStack format. <br>Some of them are: ASP.NET MVC Core, .NET Core, .NET Framework, Angular, VUE, <br>Java Spring, Flutter, SQL, MySQL, Git, Azure DevOps, and others!
+Hello 👋🏻
+
+My name is Lucas Renatto, and I am a Developer! 🧑🏻‍💻 Since I was a child, I have always been curious and passionate about games. This passion sparked my curiosity about "How is a game made?" and that's when I discovered the world of programming, starting with simple projects using Unity, After Effects, Blender, and more. I grew up and graduated in Information Systems. Today, I develop applications using various technologies in a Full-Stack format. Some of these include: ASP.NET MVC Core, .NET Core, .NET Framework, Angular, Vue, Java Spring, Flutter, SQL, MySQL, Git, Azure DevOps, and others!
+
+
 
 
 ## 🌐 Socials:
